@@ -12,3 +12,5 @@ Implementation: Maps may be generated in the following way: for a 50 by 50 grid,
 At any time t, given the current state of Belief, the agent must determine a cell to check by some rule and search it. If the cell does not contain the target, the environment will return failure. If the environment does contain the target, the search will return failure or success with the appropriate probabilities, based on the terrain type. If the search returns failure, for whatever reason, use this observation about the selected cell to update your belief state for all cells (using Bayes’ Theorem). If the search returns success, return the total number of searches taken to locate the target.
 
 MORE INFO: Assignment3.pdf
+
+FINAL REPORT: AI_3.pdf
