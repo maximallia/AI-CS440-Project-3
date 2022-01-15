@@ -1,4 +1,4 @@
-# CS440-Intro-AI-Project-3
+# CS440-Intro-AI-Project-3-Search-and-Destroy
 
 SUMMARY:
 
